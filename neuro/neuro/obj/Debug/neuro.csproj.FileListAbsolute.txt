@@ -1,0 +1,12 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\bin\Debug\neuro.exe.config
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\bin\Debug\neuro.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\bin\Debug\neuro.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\obj\Debug\neuro.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\obj\Debug\neuro.Main.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\obj\Debug\neuro.Properties.Resources.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\obj\Debug\neuro.csproj.GenerateResource.Cache
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\obj\Debug\neuro.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\obj\Debug\neuro.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\obj\Debug\neuro.Result.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\bin\Debug\MathNet.Numerics.dll
+c:\users\dmitry\documents\visual studio 2015\Projects\neuro\neuro\bin\Debug\MathNet.Numerics.xml
